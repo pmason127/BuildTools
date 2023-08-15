@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qO9iPeLzbzAYpVLsRs0Ok94zUtB2EoFAhPZydF7GQYWu5pApxLIhqt5I8lkdyZF8FIYvaebnvhxzpu9oEdYNqA==",
+  "success": true,
+  "projectFilePath": "/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/BuildUtils.csproj",
+  "expectedPackageFiles": [
+    "/Users/patrickmason/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/patrickmason/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/patrickmason/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

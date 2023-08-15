@@ -1,0 +1,21 @@
+{
+  "versionMajor": 1,
+  "versionMinor": 2,
+  "solrVersion": "12.1.0.27638",
+  "workingDirectory": "J:\\work\\Comunity13NET7\\build",
+  "solutionDirectory": "J:\\work\\Comunity13NET7",
+  "excludeFiles": [
+    "*.cs",
+    "*.csproj",
+    "*.resx",
+    "packages.config",
+    "telligent.glow.js",
+    ".gitignore"
+  ],
+  "excludeDirectories": ["obj",
+    "filestorage",
+    "evolution",
+    ".harness",
+    ".github"
+  ]
+}

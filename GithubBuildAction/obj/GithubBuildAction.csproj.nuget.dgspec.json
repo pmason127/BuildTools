@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/patrickmason/Documents/Rider/BuildTools/GithubBuildAction/GithubBuildAction.csproj": {}
+  },
+  "projects": {
+    "/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/BuildUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/BuildUtils.csproj",
+        "projectName": "BuildUtils",
+        "projectPath": "/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/BuildUtils.csproj",
+        "packagesPath": "/Users/patrickmason/.nuget/packages/",
+        "outputPath": "/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/patrickmason/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/patrickmason/.dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/patrickmason/Documents/Rider/BuildTools/GithubBuildAction/GithubBuildAction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/patrickmason/Documents/Rider/BuildTools/GithubBuildAction/GithubBuildAction.csproj",
+        "projectName": "GithubBuildAction",
+        "projectPath": "/Users/patrickmason/Documents/Rider/BuildTools/GithubBuildAction/GithubBuildAction.csproj",
+        "packagesPath": "/Users/patrickmason/.nuget/packages/",
+        "outputPath": "/Users/patrickmason/Documents/Rider/BuildTools/GithubBuildAction/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/patrickmason/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/BuildUtils.csproj": {
+                "projectPath": "/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/BuildUtils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "MarkdownBuilder": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Microsoft.CodeAnalysis.Metrics": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.FileSystemGlobbing": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/patrickmason/.dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

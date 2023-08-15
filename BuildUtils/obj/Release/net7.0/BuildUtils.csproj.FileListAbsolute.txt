@@ -1,0 +1,12 @@
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/bin/Release/net7.0/BuildUtils.deps.json
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/bin/Release/net7.0/BuildUtils.dll
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/bin/Release/net7.0/BuildUtils.pdb
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/BuildUtils.csproj.AssemblyReference.cache
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/BuildUtils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/BuildUtils.AssemblyInfoInputs.cache
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/BuildUtils.AssemblyInfo.cs
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/BuildUtils.csproj.CoreCompileInputs.cache
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/BuildUtils.dll
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/refint/BuildUtils.dll
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/BuildUtils.pdb
+/Users/patrickmason/Documents/Rider/BuildTools/BuildUtils/obj/Release/net7.0/ref/BuildUtils.dll
